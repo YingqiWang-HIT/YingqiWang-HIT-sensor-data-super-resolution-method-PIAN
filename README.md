@@ -1,6 +1,7 @@
 # YingqiWang-HIT-sensor-data-super-resolution-method-PIAN
-##  The full text will be updated in the journal later
+###  The full text will be updated in the journal later
   Due to intellectual property restrictions, the complete implementation details of the comparative experiment have not been made public. For the models and configurations used in this comparative experiment, please refer to the following literature:
+  
   [1] **ANFIS**: M. Ismail, C. Shang, J. Yang, and Q. Shen, “Sparse data-based image super-resolution with ANFIS interpolation,” Neural Computing & Applications, vol. 35, no. 10, pp. 7221–7233, Apr. 2023, doi: 10.1007/s00521-021-06500-x.
   [2] **SLRTC**: X. Zhang, J. He, X. Pan, Y. Chi, and Y. Zhou, “Structured Low-Rank Tensor Completion for IoT Spatiotemporal High-Resolution Sensing Data Reconstruction,” IEEE Internet of Things Journal, vol. 11, no. 5, pp. 8299–8310, Mar. 2024, doi: 10.1109/JIOT.2023.3318186.
   [3] **FBSR**: J. Han, Y. Deng, B. Zheng, and Z. Cao, “Well logging super-resolution based on fractal interpolation enhanced by BiLSTM-AMPSO,” Geomechanics and Geophysics for Geo-Energy and Geo-Resources, vol. 11, no. 1, pp. 1–26, Dec. 2025, doi: 10.1007/s40948-025-00969-9.
